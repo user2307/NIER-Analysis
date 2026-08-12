@@ -1,4 +1,4 @@
-%% Power Density vs. Distance Plot 
+%% Power Density vs. Distance Plot
 
 %% General Information
 %
